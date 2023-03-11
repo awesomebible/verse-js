@@ -1,0 +1,19 @@
+{
+  "name": "@awesomebible/verse-js",
+  "version": "1.0.0",
+  "description": "Versbilder für deine Websites und Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Hartmann",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awesomebible/verse-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/awesomebible/verse-js/issues"
+  },
+  "homepage": "https://github.com/awesomebible/verse-js#readme"
+}
