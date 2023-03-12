@@ -1,6 +1,6 @@
 {
   "name": "@awesomebible/verse-js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Versbilder für deine Websites und Apps",
   "main": "index.js",
   "scripts": {
